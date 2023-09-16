@@ -1,2 +1,1 @@
-# temp-repo
-Hi~ Hello~
+#My Project Plan (Level 1 Heading)
