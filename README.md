@@ -9,6 +9,8 @@ In order to build it, I will use opencv, deep learning libraries, such as [Tenso
 or [PyTorch](https://pytorch.org/), and other open source softwares.  
 
 
-For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):
+For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):  
+
+
 ![](https://user-images.githubusercontent.com/12907710/208044554-1e8de6b5-48d8-44e4-a7b5-75076c7ebb71.png)
 ---
