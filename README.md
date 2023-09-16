@@ -13,7 +13,7 @@ or [PyTorch](https://pytorch.org/), and other open source softwares.
 For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):
 
 
-![]([https://user-images.githubusercontent.com/12907710/208044554-1e8de6b5-48d8-44e4-a7b5-75076c7ebb71.png](https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png))  
+![](https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png)  
 
 ---
 
