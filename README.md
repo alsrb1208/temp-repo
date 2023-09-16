@@ -1,5 +1,4 @@
 # My Project Plan (Level 1 Heading)
-문단테스트
-문단1
 
-문단2
+***emphasize*** Note:
+This document is written merely as an illustrative example, and does not provide any working guide to an actual project.
